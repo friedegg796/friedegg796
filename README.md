@@ -6,7 +6,9 @@ Muslim male.
 
 For anyone I've wronged, I'm sorry, forgive me.
 
-Trying to learn programming, and moreover computer science and engineering in general. Also trying to learn more about circuts and electrical engineering. Any good tips, knowledge, and of the like regarding these or any topic of benefit (That is Halal and SFW) is fine by me! 
+Trying to learn programming, and moreover computer science and engineering in general. Also trying to learn more about cybersecurity, circuts, and electrical engineering.
+
+Any good tips, knowledge, and of the like regarding these or any topic of benefit (That is Halal and SFW) is fine by me! 
 
 I'm also fine with questions, feedback, and concerns you have, ask away! Just say them nicely! (In my work Email)
 
@@ -26,5 +28,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
