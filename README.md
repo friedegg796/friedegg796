@@ -1,5 +1,7 @@
 ## BIGGER BIO!
 
+My name is pronounced HAS NINE (Like HAS NINE bottles) 
+
 Muslim male.
 
 For anyone I've wronged, I'm sorry, forgive me.
