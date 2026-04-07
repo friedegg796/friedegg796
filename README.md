@@ -1,5 +1,6 @@
-## Hi there 👋
+## A
 
+As with a lot of things, this is a WIP, but I do appreciate tips and knowledge.
 <!--
 **friedegg796/friedegg796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
