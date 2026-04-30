@@ -7,7 +7,7 @@ function App() {
         <div>
           <h1>Hasnain Alahi</h1>
           <p>
-            ook this is a wip
+            look this is a wip
           </p>
         </div>
 
@@ -16,17 +16,6 @@ function App() {
       <div className="ticks"></div>
 
       <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>A WIP</h2>
-          <p>This, a WIP</p>
-          <ul>
-            <li>
-            </li>
-          </ul>
-        </div>
         <div id="social">
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
@@ -47,7 +36,7 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://chat.vite.dev/" target="_blank">
+              <a href="#" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
