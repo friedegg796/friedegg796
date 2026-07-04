@@ -1,5 +1,8 @@
-## Hi there 👋
+## Heya! To my Muslims, Asalamualakym Warahmatulahi Wabarakatuh! (It means May peace, mercy, and blessing be upon you)
 
+Most of this is a WIP, feel free to give me advice or tips at https://github.com/friedegg796/friedegg796/issues 
+
+If it's something more personal feel free to send me a DM at Discord (awanderingmuslim2billion)
 <!--
 **friedegg796/friedegg796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
